@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Riko.
 
-a technology activist and a novice web developer with technologies such as html css and js
+a technology activist and a novice web developer
 
 I'm currently active to create product that usefull for people and i also have skill to operate microsoft office 
 
