@@ -8,7 +8,7 @@ I'm currently active to create product that usefull for people and i also have s
 - 🌱 I’m currently learning about Data Science and Web3 Development
 - 💬 Tell me if you have any question or want to contribute with me
 - 📫 How to reach me: rikokurniaganteng12@gmail.com
-- ⚡ Fun fact: i am 16 Y.O
+- ⚡ Fun fact:
 
   <p align="left">
 <a href="https://github.com/rikokurnia">
