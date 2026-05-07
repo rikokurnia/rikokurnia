@@ -4,7 +4,7 @@ a technology activist and a novice web developer
 
 I'm currently active to create product that usefull for people and i also have skill to operate microsoft office 
 
-- 🔭 I’m currently student Information System at UIN SYARIF HIDAYATULLAH JAKARTA
+- 🔭 I’m a uni student
 - 🌱 I’m currently learning about Data Science and Web3 Development
 - 💬 Tell me if you have any question or want to contribute with me
 - 📫 How to reach me: rikokurniaganteng12@gmail.com
