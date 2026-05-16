@@ -7,7 +7,7 @@ I'm currently active to create product that usefull for people and i also have s
 - 🔭 I’m a uni student
 - 🌱 I’m currently learning about Data Science and Web3 Development
 - 💬 Tell me if you have any question or want to contribute with me
-- 📫 How to reach me: rikokurniaganteng12@gmail.com
+- 📫 How to reach me: rikok0488@gmail.com
 - ⚡ Fun fact:
 
   <p align="left">
