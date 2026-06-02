@@ -2,7 +2,7 @@
 
 a technology activist and a novice web developer
 
-I'm currently active to create product that usefull for people and i also have skill to operate microsoft office 
+I'm currently act to create product that usefull for people and i also have skill to operate microsoft office 
 
 - 🔭 I’m a uni student
 - 🌱 I’m currently learning about Data Science and Web3 Development
