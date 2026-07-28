@@ -1,14 +1,14 @@
 ### Hi! 👋 I'm Riko.
 
-a technology activist and a novice web developer
+a technology activist and a novice Blockchain developer
 
 I'm currently active to create product that usefull for people and i also have skill to operate microsoft office 
 
 - 🔭 I’m a uni student
-- 🌱 I’m currently learning about Data Science and Web3 Development
+- 🌱 I’m currently focusing on about Data and Web3 Development
 - 💬 Tell me if you have any question or want to contribute with me
 - 📫 How to reach me: rikok0488@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: can help at business too
 
   <p align="left">
 <a href="https://github.com/rikokurnia">
