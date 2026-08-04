@@ -4,7 +4,6 @@
 
 I'm currently active in creating useful products for people, bridging technology with practical solutions.
 
-- 🔭 I’m a university student
 - 🌱 I’m currently focusing on **Data and Web3 Development**
 - 🌐 Check out my works: **[rikovolio.vercel.app](https://rikovolio.vercel.app/)**
 - 📫 How to reach me: **rikok0488@gmail.com**
